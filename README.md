@@ -39,9 +39,9 @@ You can set the indent for the first line after `<script>` and `<style>`
 VALUE MEANING 
 -------------
 
-`zero` zero indent 
-`auto` auto indent (same indent as the blocktag) 
-`inc` auto indent + one indent step 
+* `zero` zero indent 
+* `auto` auto indent (same indent as the blocktag) 
+* `inc` auto indent + one indent step 
 
 The following `<tags>` increase the indent (for what follows) per default (taken
 from the original script, but slightly modified): 
