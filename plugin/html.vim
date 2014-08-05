@@ -151,7 +151,7 @@ call s:AddITags(['a', 'abbr', 'acronym', 'address', 'b', 'bdo', 'big',
     \ 'del', 'dfn', 'dir', 'div', 'dl', 'em', 'fieldset', 'font', 'form',
     \ 'frameset', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'i', 'iframe', 'ins', 'kbd',
     \ 'label', 'legend', 'map', 'menu', 'noframes', 'noscript', 'object', 'ol',
-    \ 'optgroup', 'q', 's', 'samp', 'select', 'small', 'span', 'strong', 'sub',
+    \ 'optgroup', 'p', 'q', 's', 'samp', 'select', 'small', 'span', 'strong', 'sub',
     \ 'sup', 'table', 'textarea', 'title', 'tt', 'u', 'ul', 'var', 'th', 'td',
     \ 'tr', 'tfoot', 'thead'])
 
